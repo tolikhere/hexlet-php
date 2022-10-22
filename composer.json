@@ -1,0 +1,15 @@
+{
+    "name": "tolik/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Tolik\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anatoliy Pavlenko",
+            "email": "fenixdurangoadrenalin@gmail.com"
+        }
+    ],
+    "require": {}
+}
