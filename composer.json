@@ -1,6 +1,9 @@
 {
     "name": "tolik/hexlet-php",
     "autoload": {
+        "files": [
+            "src/Runner.php"
+        ],
         "psr-4": {
             "Tolik\\HexletPhp\\": "src/"
         }
