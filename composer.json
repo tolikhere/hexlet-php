@@ -11,5 +11,7 @@
             "email": "fenixdurangoadrenalin@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.33"
+    }
 }
